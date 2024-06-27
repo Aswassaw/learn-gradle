@@ -1,0 +1,7 @@
+gradle task --all
+gradle build
+gradle run
+gradle classes
+gradle test
+gradle distTar
+gradle distZip
